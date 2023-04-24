@@ -1,0 +1,34 @@
+{
+    "Pessoa": [
+        {
+            "PutRequest": {
+                "Item": {
+                  "Nome": {"S": "Jose"},
+                  "SobreNome": {"S": "Oliveira"},
+                  "Nacionalidade": {"S": "Portuguesa"},
+                  "AnoNascimento": {"S": "1980"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Nome": {"S": "Maria"},
+                  "SobreNome": {"S": "Silva"},
+                  "Nacionalidade": {"S": "Brasileira"},
+                  "AnoNascimento": {"S": "1990"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Nome": {"S": "Pedro"},
+                  "SobreNome": {"S": "Soares"},
+                  "Nacionalidade": {"S": "Argentina"},
+                  "AnoNascimento": {"S": "1987"}
+                }
+            }
+        }
+      ]
+}

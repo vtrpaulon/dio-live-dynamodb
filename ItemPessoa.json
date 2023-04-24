@@ -1,0 +1,6 @@
+{
+    "Nome": {"S": "Maria"},
+    "SobreNome": {"S": "Francisca"},
+    "Nacionalidade": {"S": "Inglesa"},
+    "AnoNascimento": {"S": "1990"}
+  }
